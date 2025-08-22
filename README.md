@@ -6,6 +6,9 @@
 
 <img width="1893" height="917" alt="Screenshot 2025-08-22 093848" src="https://github.com/user-attachments/assets/45bec984-f1d4-45dc-bc0c-6753544dd0c3" />
 
+<img width="939" height="496" alt="image" src="https://github.com/user-attachments/assets/4ff47f1f-91e4-42c0-be13-e511d0a054e6" />
+
+
 
 
 # News App
