@@ -9,6 +9,9 @@
 <img width="939" height="496" alt="image" src="https://github.com/user-attachments/assets/4ff47f1f-91e4-42c0-be13-e511d0a054e6" />
 
 
+<img width="933" height="757" alt="image" src="https://github.com/user-attachments/assets/300cdc92-ae04-4b43-8690-4dc4552607b7" />
+
+
 
 
 # News App
